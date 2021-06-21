@@ -3,8 +3,14 @@
 ![logo](https://github.com/faridalz/faridalz/blob/main/web.jpg)
 
 
-I'm, a Web Developer living Azerbaijan, specialized in **Javascript**.
+# I'm, a Web Developer living Azerbaijan, specialized in **Javascript**.
 
+
+# My Portfolio :
+
+* [ZHU-Music](https://faridalz.github.io/music/zhu.html)
+* [Web Agency](https://faridalz.github.io/landing/home.html)
+* [Altair Laptop Model](https://faridalz.github.io/bs4/altair4.html)
 
 Skills:
 - HTML, CSS, JavaScript & Bootstrap
