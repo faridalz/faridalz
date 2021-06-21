@@ -1,10 +1,7 @@
 # Hello! 👋, I'm Farid Shiraliyev
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/siddartha19/">LinkedIn</a>
-</p>
 
-I'm, a Web Developer living Azerbaijan, specialized in **Javascript** **Python**.
+I'm, a Web Developer living Azerbaijan, specialized in **Javascript**.
 
 
 Skills:
@@ -14,8 +11,8 @@ Skills:
 - MongoDB, SQLite3
 
 I like to:
-- flexibility and trust: I work for people that care about outcomes
 - push my limits in competitive programming
+- flexibility and trust: I work for people that care about outcomes
 - help the community around me by sharing my knowledge
 
 
