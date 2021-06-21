@@ -1,4 +1,4 @@
-# Hola! 👋, I'm Chandu Siddartha Reddy Gooty
+# Hello! 👋, I'm Farid Shiraliyev
 
 <p align="center">
   <a href="https://www.linkedin.com/in/siddartha19/">LinkedIn</a>
