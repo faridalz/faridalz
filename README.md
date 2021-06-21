@@ -1,6 +1,7 @@
 # Hello! 👋, I'm Farid Shiraliyev
 
-https://github.com/faridalz/faridalz/blob/main/web.jpg
+![logo](https://github.com/faridalz/faridalz/blob/main/web.jpg)
+
 
 I'm, a Web Developer living Azerbaijan, specialized in **Javascript**.
 
