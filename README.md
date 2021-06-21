@@ -6,7 +6,7 @@
 # I'm, a Web Developer living Azerbaijan, specialized in **Javascript**.
 
 
-# My Portfolio :
+My Portfolio :
 
 * [ZHU-Music](https://faridalz.github.io/music/zhu.html)
 * [Web Agency](https://faridalz.github.io/landing/home.html)
