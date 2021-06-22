@@ -8,9 +8,9 @@
 
 My Portfolio :
 
-* [ZHU-Music](https://faridalz.github.io/music/zhu.html)
-* [Web Agency](https://faridalz.github.io/landing/home.html)
-* [Altair Laptop Model](https://faridalz.github.io/bs4/altair4.html)
+* [ZHU-Music page Model](https://faridalz.github.io/music/zhu.html)
+* [Web Agency Model](https://faridalz.github.io/landing/home.html)
+* [Altair Gaming Laptop Model](https://faridalz.github.io/gaming/altair.html)
 
 Skills:
 - HTML, CSS, JavaScript & Bootstrap
