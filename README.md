@@ -16,7 +16,6 @@ Skills:
 - HTML, CSS, JavaScript & Bootstrap
 - Python
 - Django (Python Framework)
-- MongoDB, SQLite3
 
 I like to:
 - push my limits in competitive programming
