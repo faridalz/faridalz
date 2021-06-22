@@ -3,12 +3,12 @@
 ![logo](https://github.com/faridalz/faridalz/blob/main/web.jpg)
 
 
-# I'm, a Web Developer living Azerbaijan, specialized in **Javascript**.
+# I'm, a Web Developer living in Azerbaijan, specialized in **Javascript**.
 
 
 My Portfolio :
 
-* [ZHU-Music page Model](https://faridalz.github.io/music/zhu.html)
+* [ZHU-Music Page Model](https://faridalz.github.io/music/zhu.html)
 * [Web Agency Model](https://faridalz.github.io/landing/home.html)
 * [Altair Gaming Laptop Model](https://faridalz.github.io/gaming/altair.html)
 
