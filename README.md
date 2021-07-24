@@ -7,10 +7,11 @@
 
 
 My Portfolio :
-
-* [ZHU-Music Page Model  ( using HTML, CSS, Bootstrap 4 and Javascript )](https://faridalz.github.io/music/zhu.html)
-* [Web Agency Model  ( using HTML, CSS, Bootstrap 4 and Javascript )](https://faridalz.github.io/landing/home.html)
-* [Altair Gaming Laptop Model   ( using HTML, CSS and Bootstrap )](https://faridalz.github.io/gaming/altair.html)
+* [Creative Agency Page v.2____  (using React Js + Context Api )](https://faridalz.github.io/agency-context)
+* [ZHU-Music Page v.2____  (using React Js + Redux )](https://faridalz.github.io/zhu-redux)
+* [ZHU-Music Page____  (using HTML, CSS, Bootstrap 4 and Javascript )](https://faridalz.github.io/music/zhu.html)
+* [Creative Agency Page_____ (using HTML, CSS, Bootstrap 4 and Javascript )](https://faridalz.github.io/landing/home.html)
+* [Altair Gaming Laptop_____( using HTML, CSS and Bootstrap )](https://faridalz.github.io/gaming/altair.html)
 
 Skills:
 - HTML, CSS, JavaScript & Bootstrap
