@@ -6,7 +6,7 @@
 # I'm, a Web Developer, specialized in **Javascript** and **React Js**.
 
 
-My Portfolio :
+My Projects :
 * [Creative Agency Page v.2____  (using React Js + Context Api )](https://faridalz.github.io/agency-context)
 * [ZHU-Music Page v.2____  (using React Js + Redux )](https://faridalz.github.io/zhu-redux)
 * [ZHU-Music Page____  (using HTML, CSS, Bootstrap 4 and Javascript )](https://faridalz.github.io/music/zhu.html)
@@ -15,6 +15,8 @@ My Portfolio :
 
 Skills:
 - HTML, CSS, JavaScript & Bootstrap
+- React Js
+- Redux
 - Python
 - Django (Python Framework)
 
