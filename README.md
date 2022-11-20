@@ -21,8 +21,6 @@ As a self-taught <b>Frontend Developer</b>, I'm on the road to learning, explori
 
 
 
-![logo](https://github.com/faridalz/faridalz/blob/main/web.jpg)
-
 
 My Projects :
 * [Creative Agency Page v.2____  (using React Js + Context Api )](https://faridalz.github.io/agency-context)
@@ -40,7 +38,8 @@ I like to:
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridalz&title_color=fff&text_color=9f9f9f&bg_color=151515&hide=jupyter%20notebook" alt="Farid's github stats" />
 
-
-
-### Find me around the web 🌎 :
-- Social Networking [LinkedIn](https://www.linkedin.com/in/farid131/)
+<h3 align="left">Find me around the web</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/farid131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farid" height="30" width="40" /></a>
+<a href="https://instagram.com/faridalzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faridalzade" height="30" width="40" /></a>
+</p>
