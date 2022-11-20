@@ -26,7 +26,7 @@ My Projects :
 * [Creative Agency Page](https://agency-context.netlify.app/#/)
 * [ZHU-Music Page](https://zhu-redux.netlify.app/)
 * [ERBI Chatapp](https://erbi-chatapp.vercel.app/)
-* [ERBI Store](https://erbi-store.netflify.app/)
+* [ERBI Store](https://erbi-store.netlify.app)
 
 
 I like to:
