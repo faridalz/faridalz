@@ -23,11 +23,10 @@ As a self-taught <b>Frontend Developer</b>, I'm on the road to learning, explori
 
 
 My Projects :
-* [Creative Agency Page v.2____  (using React Js + Context Api )](https://faridalz.github.io/agency-context)
-* [ZHU-Music Page v.2____  (using React Js + Redux )](https://faridalz.github.io/zhu-redux)
-* [ZHU-Music Page____  (using HTML, CSS, Bootstrap 4 and Javascript )](https://faridalz.github.io/music/zhu.html)
-* [Creative Agency Page_____ (using HTML, CSS, Bootstrap 4 and Javascript )](https://faridalz.github.io/landing/home.html)
-* [Altair Gaming Laptop_____( using HTML, CSS and Bootstrap )](https://faridalz.github.io/gaming/altair.html)
+* [Creative Agency Page](https://agency-context.netlify.app/#/)
+* [ZHU-Music Page](https://zhu-redux.netlify.app/)
+* [ERBI Chatapp](https://erbi-chatapp.vercel.app/)
+* [ERBI Store](https://erbi-store.netflify.app/)
 
 
 I like to:
