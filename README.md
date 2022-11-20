@@ -31,7 +31,6 @@ My Projects :
 
 I like to:
 - push my limits in competitive programming
-- flexibility and trust: I work for people that care about outcomes
 - help the community around me by sharing my knowledge
 
 
